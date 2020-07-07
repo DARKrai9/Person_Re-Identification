@@ -1,7 +1,7 @@
 # Person-Re-identification-using-Siamese-networks
 
 ## About 
-This is project about person re-identification. For Person re-identification most importantant things is feature extraction. According to microsoft research "deeper the Convolutional Neural Network (CNN) better the result." So for feature extraction i have used this concept. For image comparision siamese network is best and well known apporach in person re-identification.   
+This is project about person re-identification. For Person re-identification most important things is feature extraction. According to Microsoft research "deeper the Convolutional Neural Network (CNN) better the result." So, for feature extraction I have used this concept. For image comparison Siamese network is best and well known approach in person re-identification.  
 
 ## Datasets
 The dataset used here is CUHK01. The dataset can be obtained [here](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html) .
